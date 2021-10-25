@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **[a Alien Invasion game]()**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently mastering **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **tejas.janjur@gmail.com**
 
-- ⚡ Fun fact **I love reading books and read about new technologies**
+- ⚡ Fun fact **I love reading books and about new technologies**
 
 ## 🚀 Languages and Tools:
 
