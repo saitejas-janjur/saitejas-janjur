@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[a Alien Invasion game]()**
+- 🔭 I’m currently working on **[a Alien Invasion game](https://github.com/saitejas-janjur/Alien_Invasion_Game)**
 
 - 🌱 I’m currently mastering **Data Structures and Algorithms.**
 
