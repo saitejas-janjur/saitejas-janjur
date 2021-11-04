@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[a Sorting Algorithm Visualizer](https://github.com/saitejas-janjur/Sorting_Algorithm_visualizer)**
+- 🔭 I’m currently working on a **[Sorting Algorithm Visualizer](https://github.com/saitejas-janjur/Sorting_Algorithm_visualizer)**
 
 - 🌱 I’m currently mastering **Data Structures and Algorithms.**
 
