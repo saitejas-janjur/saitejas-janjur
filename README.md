@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **[Movie and TV Show WebApp](https://github.com/saitejas-janjur/Movie-Tvshow_Discover_Search--React.JS)**
+- 🔭 I’m currently working on a **[Fullstack Social Media App](https://github.com/saitejas-janjur/Fullstack_WebApp)**
 
 - 🌱 I’m currently mastering **Data Structures and Algorithms.**
 
