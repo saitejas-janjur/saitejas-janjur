@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **[Fullstack Social Media App](https://github.com/saitejas-janjur/Fullstack_WebApp)**
-
-- 🌱 I’m currently mastering **Data Structures and Algorithms.**
+- 🔭 I’m currently working on a research project about **Disfluency removal using LLM's**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
